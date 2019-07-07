@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TrackerList.Base
+namespace TrackerList
 {
     public interface ITracker
     {

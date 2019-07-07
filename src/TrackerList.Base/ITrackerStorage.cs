@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace TrackerList.Base
+namespace TrackerList
 {
     /// <summary>
     /// Provides permanent storage of tracker information.

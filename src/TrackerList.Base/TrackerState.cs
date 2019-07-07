@@ -1,4 +1,4 @@
-﻿namespace TrackerList.Base
+﻿namespace TrackerList
 {
     public enum TrackerState
     {
